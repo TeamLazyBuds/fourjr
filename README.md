@@ -12,8 +12,8 @@ I'm a software developer from Singapore! 🇸🇬
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Statistics 📈
-![Github Statistics](https://github-readme-stats.vercel.app/api?username=fourjr&count_private=true)
+### Weekly Statistics 📈
+[![Github Statistics](https://github-readme-stats.vercel.app/api?username=fourjr&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ```text
