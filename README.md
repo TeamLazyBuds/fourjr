@@ -17,6 +17,9 @@ I'm a software developer from Singapore! 🇸🇬
 
 <!--START_SECTION:waka-->
 ```text
+Programming Stats this week: 04 September - 11 September
+
+
 Python    6 hrs 32 mins   ███████████████▒░░░░░░░░░   61.20 % 
 HTML      2 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.99 % 
 Arduino   1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
