@@ -16,13 +16,4 @@ I'm a software developer from Singapore! 🇸🇬
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=fourjr&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-```text
-Programming Stats this week: 04 September - 11 September
-
-Python    6 hrs 32 mins   ███████████████▒░░░░░░░░░   61.20 % 
-HTML      2 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.99 % 
-Arduino   1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Text      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Other     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-```
 <!--END_SECTION:waka-->
