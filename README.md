@@ -16,8 +16,6 @@ I'm a software developer from Singapore! 🇸🇬
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=fourjr&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -44,18 +42,29 @@ Sunday       169 commits    ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Singapore
-
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     34 mins             ██████████████████░░░░░░░   71.8% 
+CSS                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+VS Code                  48 mins             █████████████████████████   100.0%
 
 ```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   62 repos            ██████████████████░░░░░░░   72.09% 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
+GLSL                     1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
+
+```
+
 
 **Timeline**
 
