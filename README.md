@@ -13,7 +13,7 @@ I'm a software developer from Singapore! 🇸🇬
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 ### Weekly Statistics 📈
-[![Github Statistics](https://github-readme-stats.vercel.app/api?username=fourjr&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Statistics](https://github-readme-stats.vercel.app/api?username=fourjr&count_private=true&bg_color=ffffff00&text_color=858585&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
