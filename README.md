@@ -15,6 +15,7 @@ I'm a software developer from Singapore! 🇸🇬
 [![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ### Weekly Statistics 📈
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=fourjr&count_private=true&bg_color=ffffff00&text_color=858585&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
