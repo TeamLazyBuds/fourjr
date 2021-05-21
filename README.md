@@ -48,10 +48,10 @@ Sunday       123 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
